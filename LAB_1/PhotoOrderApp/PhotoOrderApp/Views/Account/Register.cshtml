@@ -1,0 +1,23 @@
+﻿@model User
+@{
+    ViewData["Title"] = "Реєстрація";
+}
+
+<h2>Реєстрація</h2>
+<form asp-action="Register" method="post">
+    <label>Ім’я:</label>
+    <input asp-for="Name" />
+    <span asp-validation-for="Name"></span><br />
+
+    <label>Email:</label>
+    <input asp-for="Email" />
+    <span asp-validation-for="Email"></span><br />
+
+    <button type="submit">Продовжити</button>
+</form>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

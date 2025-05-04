@@ -1,0 +1,13 @@
+﻿@model ProductDirectoryApp.Models.Product
+<h2>Деталі товару</h2>
+<dl class="row">
+    <dt class="col-sm-2">Назва</dt>
+    <dd class="col-sm-10">@Model.Name</dd>
+    <dt class="col-sm-2">Опис</dt>
+    <dd class="col-sm-10">@Model.Description</dd>
+    <dt class="col-sm-2">Ціна</dt>
+    <dd class="col-sm-10">@Model.Price</dd>
+    <dt class="col-sm-2">Фірма</dt>
+    <dd class="col-sm-10">@Model.Firm?.Name</dd>
+</dl>
+<a asp-action="Index" class="btn btn-secondary">Назад</a>

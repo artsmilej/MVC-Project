@@ -1,0 +1,33 @@
+﻿@model List<ProductLinqApp.Models.Product>
+@{
+    ViewData["Title"] = "Список товарів";
+    var cheapest = ViewBag.Cheapest as ProductLinqApp.Models.Product;
+    var mostExpensive = ViewBag.MostExpensive as ProductLinqApp.Models.Product;
+    decimal averagePrice = ViewBag.AveragePrice;
+}
+
+<h2>Список товарів</h2>
+
+<table border="1" cellpadding="5">
+    <thead>
+        <tr>
+            <th>Назва</th>
+            <th>Строк придатності</th>
+            <th>Ціна</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var product in Model)
+        {
+            <tr>
+                <td>@product.Name</td>
+                <td>@product.ExpirationDate.ToShortDateString()</td>
+                <td>@product.Price грн</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<h3>Найдешевший товар: @cheapest.Name (@cheapest.Price грн)</h3>
+<h3>Найдорожчий товар: @mostExpensive.Name (@mostExpensive.Price грн)</h3>
+<h3>Середня ціна: @averagePrice грн</h3>

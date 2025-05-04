@@ -1,0 +1,390 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Studies\\MVC LAB\\LAB_4\\ProductDirectoryApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8DD4628B-1709-426F-8B75-44682AA9EEB8}|ProductDirectoryApp\\ProductDirectoryApp.csproj|f:\\studies\\mvc lab\\lab_4\\productdirectoryapp\\productdirectoryapp\\models\\firm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DD4628B-1709-426F-8B75-44682AA9EEB8}|ProductDirectoryApp\\ProductDirectoryApp.csproj|solutionrelative:productdirectoryapp\\models\\firm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DD4628B-1709-426F-8B75-44682AA9EEB8}|ProductDirectoryApp\\ProductDirectoryApp.csproj|f:\\studies\\mvc lab\\lab_4\\productdirectoryapp\\productdirectoryapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8DD4628B-1709-426F-8B75-44682AA9EEB8}|ProductDirectoryApp\\ProductDirectoryApp.csproj|solutionrelative:productdirectoryapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DD4628B-1709-426F-8B75-44682AA9EEB8}|ProductDirectoryApp\\ProductDirectoryApp.csproj|f:\\studies\\mvc lab\\lab_4\\productdirectoryapp\\productdirectoryapp\\views\\firm\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8DD4628B-1709-426F-8B75-44682AA9EEB8}|ProductDirectoryApp\\ProductDirectoryApp.csproj|solutionrelative:productdirectoryapp\\views\\firm\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DD4628B-1709-426F-8B75-44682AA9EEB8}|ProductDirectoryApp\\ProductDirectoryApp.csproj|f:\\studies\\mvc lab\\lab_4\\productdirectoryapp\\productdirectoryapp\\controllers\\firmcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DD4628B-1709-426F-8B75-44682AA9EEB8}|ProductDirectoryApp\\ProductDirectoryApp.csproj|solutionrelative:productdirectoryapp\\controllers\\firmcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DD4628B-1709-426F-8B75-44682AA9EEB8}|ProductDirectoryApp\\ProductDirectoryApp.csproj|f:\\studies\\mvc lab\\lab_4\\productdirectoryapp\\productdirectoryapp\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8DD4628B-1709-426F-8B75-44682AA9EEB8}|ProductDirectoryApp\\ProductDirectoryApp.csproj|solutionrelative:productdirectoryapp\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DD4628B-1709-426F-8B75-44682AA9EEB8}|ProductDirectoryApp\\ProductDirectoryApp.csproj|f:\\studies\\mvc lab\\lab_4\\productdirectoryapp\\productdirectoryapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DD4628B-1709-426F-8B75-44682AA9EEB8}|ProductDirectoryApp\\ProductDirectoryApp.csproj|solutionrelative:productdirectoryapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DD4628B-1709-426F-8B75-44682AA9EEB8}|ProductDirectoryApp\\ProductDirectoryApp.csproj|f:\\studies\\mvc lab\\lab_4\\productdirectoryapp\\productdirectoryapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8DD4628B-1709-426F-8B75-44682AA9EEB8}|ProductDirectoryApp\\ProductDirectoryApp.csproj|solutionrelative:productdirectoryapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DD4628B-1709-426F-8B75-44682AA9EEB8}|ProductDirectoryApp\\ProductDirectoryApp.csproj|f:\\studies\\mvc lab\\lab_4\\productdirectoryapp\\productdirectoryapp\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8DD4628B-1709-426F-8B75-44682AA9EEB8}|ProductDirectoryApp\\ProductDirectoryApp.csproj|solutionrelative:productdirectoryapp\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\oneta\\AppData\\Local\\Temp\\kp3nsdcb..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DD4628B-1709-426F-8B75-44682AA9EEB8}|ProductDirectoryApp\\ProductDirectoryApp.csproj|f:\\studies\\mvc lab\\lab_4\\productdirectoryapp\\productdirectoryapp\\views\\firm\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8DD4628B-1709-426F-8B75-44682AA9EEB8}|ProductDirectoryApp\\ProductDirectoryApp.csproj|solutionrelative:productdirectoryapp\\views\\firm\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DD4628B-1709-426F-8B75-44682AA9EEB8}|ProductDirectoryApp\\ProductDirectoryApp.csproj|f:\\studies\\mvc lab\\lab_4\\productdirectoryapp\\productdirectoryapp\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8DD4628B-1709-426F-8B75-44682AA9EEB8}|ProductDirectoryApp\\ProductDirectoryApp.csproj|solutionrelative:productdirectoryapp\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DD4628B-1709-426F-8B75-44682AA9EEB8}|ProductDirectoryApp\\ProductDirectoryApp.csproj|f:\\studies\\mvc lab\\lab_4\\productdirectoryapp\\productdirectoryapp\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8DD4628B-1709-426F-8B75-44682AA9EEB8}|ProductDirectoryApp\\ProductDirectoryApp.csproj|solutionrelative:productdirectoryapp\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DD4628B-1709-426F-8B75-44682AA9EEB8}|ProductDirectoryApp\\ProductDirectoryApp.csproj|f:\\studies\\mvc lab\\lab_4\\productdirectoryapp\\productdirectoryapp\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8DD4628B-1709-426F-8B75-44682AA9EEB8}|ProductDirectoryApp\\ProductDirectoryApp.csproj|solutionrelative:productdirectoryapp\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DD4628B-1709-426F-8B75-44682AA9EEB8}|ProductDirectoryApp\\ProductDirectoryApp.csproj|f:\\studies\\mvc lab\\lab_4\\productdirectoryapp\\productdirectoryapp\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8DD4628B-1709-426F-8B75-44682AA9EEB8}|ProductDirectoryApp\\ProductDirectoryApp.csproj|solutionrelative:productdirectoryapp\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DD4628B-1709-426F-8B75-44682AA9EEB8}|ProductDirectoryApp\\ProductDirectoryApp.csproj|f:\\studies\\mvc lab\\lab_4\\productdirectoryapp\\productdirectoryapp\\views\\firm\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8DD4628B-1709-426F-8B75-44682AA9EEB8}|ProductDirectoryApp\\ProductDirectoryApp.csproj|solutionrelative:productdirectoryapp\\views\\firm\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DD4628B-1709-426F-8B75-44682AA9EEB8}|ProductDirectoryApp\\ProductDirectoryApp.csproj|f:\\studies\\mvc lab\\lab_4\\productdirectoryapp\\productdirectoryapp\\views\\firm\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8DD4628B-1709-426F-8B75-44682AA9EEB8}|ProductDirectoryApp\\ProductDirectoryApp.csproj|solutionrelative:productdirectoryapp\\views\\firm\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DD4628B-1709-426F-8B75-44682AA9EEB8}|ProductDirectoryApp\\ProductDirectoryApp.csproj|f:\\studies\\mvc lab\\lab_4\\productdirectoryapp\\productdirectoryapp\\views\\firm\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8DD4628B-1709-426F-8B75-44682AA9EEB8}|ProductDirectoryApp\\ProductDirectoryApp.csproj|solutionrelative:productdirectoryapp\\views\\firm\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DD4628B-1709-426F-8B75-44682AA9EEB8}|ProductDirectoryApp\\ProductDirectoryApp.csproj|f:\\studies\\mvc lab\\lab_4\\productdirectoryapp\\productdirectoryapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DD4628B-1709-426F-8B75-44682AA9EEB8}|ProductDirectoryApp\\ProductDirectoryApp.csproj|solutionrelative:productdirectoryapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DD4628B-1709-426F-8B75-44682AA9EEB8}|ProductDirectoryApp\\ProductDirectoryApp.csproj|f:\\studies\\mvc lab\\lab_4\\productdirectoryapp\\productdirectoryapp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DD4628B-1709-426F-8B75-44682AA9EEB8}|ProductDirectoryApp\\ProductDirectoryApp.csproj|solutionrelative:productdirectoryapp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DD4628B-1709-426F-8B75-44682AA9EEB8}|ProductDirectoryApp\\ProductDirectoryApp.csproj|f:\\studies\\mvc lab\\lab_4\\productdirectoryapp\\productdirectoryapp\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DD4628B-1709-426F-8B75-44682AA9EEB8}|ProductDirectoryApp\\ProductDirectoryApp.csproj|solutionrelative:productdirectoryapp\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\Studies\\MVC LAB\\ProductDirectoryApp\\ProductDirectoryApp\\Migrations\\20250504131534_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DD4628B-1709-426F-8B75-44682AA9EEB8}|ProductDirectoryApp\\ProductDirectoryApp.csproj|f:\\studies\\mvc lab\\lab_4\\productdirectoryapp\\productdirectoryapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8DD4628B-1709-426F-8B75-44682AA9EEB8}|ProductDirectoryApp\\ProductDirectoryApp.csproj|solutionrelative:productdirectoryapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DD4628B-1709-426F-8B75-44682AA9EEB8}|ProductDirectoryApp\\ProductDirectoryApp.csproj|f:\\studies\\mvc lab\\lab_4\\productdirectoryapp\\productdirectoryapp\\migrations\\20250504133527_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DD4628B-1709-426F-8B75-44682AA9EEB8}|ProductDirectoryApp\\ProductDirectoryApp.csproj|solutionrelative:productdirectoryapp\\migrations\\20250504133527_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FirmController.cs",
+              "DocumentMoniker": "F:\\Studies\\MVC LAB\\LAB_4\\ProductDirectoryApp\\ProductDirectoryApp\\Controllers\\FirmController.cs",
+              "RelativeDocumentMoniker": "ProductDirectoryApp\\Controllers\\FirmController.cs",
+              "ToolTip": "F:\\Studies\\MVC LAB\\LAB_4\\ProductDirectoryApp\\ProductDirectoryApp\\Controllers\\FirmController.cs",
+              "RelativeToolTip": "ProductDirectoryApp\\Controllers\\FirmController.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAqwEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T13:45:53.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\Studies\\MVC LAB\\LAB_4\\ProductDirectoryApp\\ProductDirectoryApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProductDirectoryApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "F:\\Studies\\MVC LAB\\LAB_4\\ProductDirectoryApp\\ProductDirectoryApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ProductDirectoryApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-04T13:38:30.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "F:\\Studies\\MVC LAB\\LAB_4\\ProductDirectoryApp\\ProductDirectoryApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ProductDirectoryApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "F:\\Studies\\MVC LAB\\LAB_4\\ProductDirectoryApp\\ProductDirectoryApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ProductDirectoryApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAYwBYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-04T13:38:08.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "F:\\Studies\\MVC LAB\\LAB_4\\ProductDirectoryApp\\ProductDirectoryApp\\Views\\Product\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ProductDirectoryApp\\Views\\Product\\Delete.cshtml",
+              "ToolTip": "F:\\Studies\\MVC LAB\\LAB_4\\ProductDirectoryApp\\ProductDirectoryApp\\Views\\Product\\Delete.cshtml",
+              "RelativeToolTip": "ProductDirectoryApp\\Views\\Product\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-04T13:34:18.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "F:\\Studies\\MVC LAB\\LAB_4\\ProductDirectoryApp\\ProductDirectoryApp\\Views\\Product\\Details.cshtml",
+              "RelativeDocumentMoniker": "ProductDirectoryApp\\Views\\Product\\Details.cshtml",
+              "ToolTip": "F:\\Studies\\MVC LAB\\LAB_4\\ProductDirectoryApp\\ProductDirectoryApp\\Views\\Product\\Details.cshtml",
+              "RelativeToolTip": "ProductDirectoryApp\\Views\\Product\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-04T13:33:53.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "F:\\Studies\\MVC LAB\\LAB_4\\ProductDirectoryApp\\ProductDirectoryApp\\Views\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ProductDirectoryApp\\Views\\Product\\Edit.cshtml",
+              "ToolTip": "F:\\Studies\\MVC LAB\\LAB_4\\ProductDirectoryApp\\ProductDirectoryApp\\Views\\Product\\Edit.cshtml",
+              "RelativeToolTip": "ProductDirectoryApp\\Views\\Product\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-04T13:33:26.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "F:\\Studies\\MVC LAB\\LAB_4\\ProductDirectoryApp\\ProductDirectoryApp\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "ProductDirectoryApp\\Views\\Product\\Create.cshtml",
+              "ToolTip": "F:\\Studies\\MVC LAB\\LAB_4\\ProductDirectoryApp\\ProductDirectoryApp\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "ProductDirectoryApp\\Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAYwC0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-04T13:24:51.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Studies\\MVC LAB\\LAB_4\\ProductDirectoryApp\\ProductDirectoryApp\\Program.cs",
+              "RelativeDocumentMoniker": "ProductDirectoryApp\\Program.cs",
+              "ToolTip": "F:\\Studies\\MVC LAB\\LAB_4\\ProductDirectoryApp\\ProductDirectoryApp\\Program.cs",
+              "RelativeToolTip": "ProductDirectoryApp\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAiwC8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T13:12:32.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "kp3nsdcb..sql",
+              "DocumentMoniker": "C:\\Users\\oneta\\AppData\\Local\\Temp\\kp3nsdcb..sql",
+              "ToolTip": "C:\\Users\\oneta\\AppData\\Local\\Temp\\kp3nsdcb..sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-05-04T14:10:57.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "F:\\Studies\\MVC LAB\\LAB_4\\ProductDirectoryApp\\ProductDirectoryApp\\Views\\Firm\\Create.cshtml",
+              "RelativeDocumentMoniker": "ProductDirectoryApp\\Views\\Firm\\Create.cshtml",
+              "ToolTip": "F:\\Studies\\MVC LAB\\LAB_4\\ProductDirectoryApp\\ProductDirectoryApp\\Views\\Firm\\Create.cshtml",
+              "RelativeToolTip": "ProductDirectoryApp\\Views\\Firm\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-04T13:23:37.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Firm.cs",
+              "DocumentMoniker": "F:\\Studies\\MVC LAB\\LAB_4\\ProductDirectoryApp\\ProductDirectoryApp\\Models\\Firm.cs",
+              "RelativeDocumentMoniker": "ProductDirectoryApp\\Models\\Firm.cs",
+              "ToolTip": "F:\\Studies\\MVC LAB\\LAB_4\\ProductDirectoryApp\\ProductDirectoryApp\\Models\\Firm.cs",
+              "RelativeToolTip": "ProductDirectoryApp\\Models\\Firm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T13:08:32.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20250504133527_InitialCreate.cs",
+              "DocumentMoniker": "F:\\Studies\\MVC LAB\\LAB_4\\ProductDirectoryApp\\ProductDirectoryApp\\Migrations\\20250504133527_InitialCreate.cs",
+              "RelativeDocumentMoniker": "ProductDirectoryApp\\Migrations\\20250504133527_InitialCreate.cs",
+              "ToolTip": "F:\\Studies\\MVC LAB\\LAB_4\\ProductDirectoryApp\\ProductDirectoryApp\\Migrations\\20250504133527_InitialCreate.cs",
+              "RelativeToolTip": "ProductDirectoryApp\\Migrations\\20250504133527_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T13:35:28.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "F:\\Studies\\MVC LAB\\LAB_4\\ProductDirectoryApp\\ProductDirectoryApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "ProductDirectoryApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "F:\\Studies\\MVC LAB\\LAB_4\\ProductDirectoryApp\\ProductDirectoryApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "ProductDirectoryApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAB3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-04T14:06:31.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\Studies\\MVC LAB\\LAB_4\\ProductDirectoryApp\\ProductDirectoryApp\\Views\\Firm\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProductDirectoryApp\\Views\\Firm\\Index.cshtml",
+              "ToolTip": "F:\\Studies\\MVC LAB\\LAB_4\\ProductDirectoryApp\\ProductDirectoryApp\\Views\\Firm\\Index.cshtml",
+              "RelativeToolTip": "ProductDirectoryApp\\Views\\Firm\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-04T13:23:04.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\Studies\\MVC LAB\\LAB_4\\ProductDirectoryApp\\ProductDirectoryApp\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProductDirectoryApp\\Views\\Product\\Index.cshtml",
+              "ToolTip": "F:\\Studies\\MVC LAB\\LAB_4\\ProductDirectoryApp\\ProductDirectoryApp\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "ProductDirectoryApp\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-04T13:24:21.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "F:\\Studies\\MVC LAB\\LAB_4\\ProductDirectoryApp\\ProductDirectoryApp\\Views\\Firm\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ProductDirectoryApp\\Views\\Firm\\Delete.cshtml",
+              "ToolTip": "F:\\Studies\\MVC LAB\\LAB_4\\ProductDirectoryApp\\ProductDirectoryApp\\Views\\Firm\\Delete.cshtml",
+              "RelativeToolTip": "ProductDirectoryApp\\Views\\Firm\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-04T13:32:29.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "F:\\Studies\\MVC LAB\\LAB_4\\ProductDirectoryApp\\ProductDirectoryApp\\Views\\Firm\\Details.cshtml",
+              "RelativeDocumentMoniker": "ProductDirectoryApp\\Views\\Firm\\Details.cshtml",
+              "ToolTip": "F:\\Studies\\MVC LAB\\LAB_4\\ProductDirectoryApp\\ProductDirectoryApp\\Views\\Firm\\Details.cshtml",
+              "RelativeToolTip": "ProductDirectoryApp\\Views\\Firm\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-04T13:31:58.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "F:\\Studies\\MVC LAB\\LAB_4\\ProductDirectoryApp\\ProductDirectoryApp\\Views\\Firm\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ProductDirectoryApp\\Views\\Firm\\Edit.cshtml",
+              "ToolTip": "F:\\Studies\\MVC LAB\\LAB_4\\ProductDirectoryApp\\ProductDirectoryApp\\Views\\Firm\\Edit.cshtml",
+              "RelativeToolTip": "ProductDirectoryApp\\Views\\Firm\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-04T13:31:24.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "F:\\Studies\\MVC LAB\\LAB_4\\ProductDirectoryApp\\ProductDirectoryApp\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ProductDirectoryApp\\Controllers\\ProductController.cs",
+              "ToolTip": "F:\\Studies\\MVC LAB\\LAB_4\\ProductDirectoryApp\\ProductDirectoryApp\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ProductDirectoryApp\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAADwv14AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T13:20:57.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20250504131534_InitialCreate.cs",
+              "DocumentMoniker": "F:\\Studies\\MVC LAB\\ProductDirectoryApp\\ProductDirectoryApp\\Migrations\\20250504131534_InitialCreate.cs",
+              "RelativeDocumentMoniker": "..\\..\\ProductDirectoryApp\\ProductDirectoryApp\\Migrations\\20250504131534_InitialCreate.cs",
+              "ToolTip": "F:\\Studies\\MVC LAB\\ProductDirectoryApp\\ProductDirectoryApp\\Migrations\\20250504131534_InitialCreate.cs",
+              "RelativeToolTip": "..\\..\\ProductDirectoryApp\\ProductDirectoryApp\\Migrations\\20250504131534_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T13:15:34.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "F:\\Studies\\MVC LAB\\LAB_4\\ProductDirectoryApp\\ProductDirectoryApp\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ProductDirectoryApp\\Data\\AppDbContext.cs",
+              "ToolTip": "F:\\Studies\\MVC LAB\\LAB_4\\ProductDirectoryApp\\ProductDirectoryApp\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "ProductDirectoryApp\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T13:10:15.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Product.cs",
+              "DocumentMoniker": "F:\\Studies\\MVC LAB\\LAB_4\\ProductDirectoryApp\\ProductDirectoryApp\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ProductDirectoryApp\\Models\\Product.cs",
+              "ToolTip": "F:\\Studies\\MVC LAB\\LAB_4\\ProductDirectoryApp\\ProductDirectoryApp\\Models\\Product.cs",
+              "RelativeToolTip": "ProductDirectoryApp\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T13:09:09.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\Studies\\MVC LAB\\LAB_4\\ProductDirectoryApp\\ProductDirectoryApp\\appsettings.json",
+              "RelativeDocumentMoniker": "ProductDirectoryApp\\appsettings.json",
+              "ToolTip": "F:\\Studies\\MVC LAB\\LAB_4\\ProductDirectoryApp\\ProductDirectoryApp\\appsettings.json",
+              "RelativeToolTip": "ProductDirectoryApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-04T13:10:36.685Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

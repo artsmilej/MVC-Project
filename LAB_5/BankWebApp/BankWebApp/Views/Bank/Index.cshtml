@@ -1,0 +1,38 @@
+﻿@model List<BankWebApp.Models.Bank>
+
+<h2>Банківські установи</h2>
+
+<div class="actions">
+    <a href="/Bank/Create" class="btn btn-primary">➕ Додати</a>
+</div>
+
+<form method="get" asp-controller="Bank" asp-action="Search" class="search-form">
+    <input type="text" name="term" placeholder="Пошук..." class="form-control" />
+    <button type="submit" class="btn btn-info">🔍</button>
+</form>
+
+<table class="table table-striped mt-3">
+    <thead>
+        <tr>
+            <th>Код</th>
+            <th>Назва</th>
+            <th>МФО</th>
+            <th>Тел.</th>
+            <th>Дії</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var bank in Model)
+        {
+            <tr>
+                <td>@bank.Kod</td>
+                <td>@bank.Naim</td>
+                <td>@bank.MFO</td>
+                <td>@bank.Tel</td>
+                <td>
+                    <a href="/Bank/Delete/@bank.Kod" title="Видалити">🗑️</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

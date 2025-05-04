@@ -1,0 +1,49 @@
+﻿@model List<Service>
+<h2 class="mb-4">Список послуг</h2>
+<form method="get" class="input-group mb-3">
+    <input type="text" name="search" class="form-control" placeholder="Пошук..." value="@Context.Request.Query["search"]" />
+    <button class="btn btn-outline-secondary" type="submit">Пошук</button>
+</form>
+
+<table class="table table-bordered table-striped">
+    <thead class="table-dark">
+        <tr>
+            <th>Назва</th>
+            <th>Опис</th>
+            <th>Ціна</th>
+            <th class="text-center">Дії</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var s in Model)
+        {
+            <tr>
+                <td>@s.Name</td>
+                <td>@s.Description</td>
+                <td>@s.Price.ToString("N2") грн</td>
+                <td class="text-center">
+                    @if (Context.Session.GetString("UserRole") == "Admin")
+                    {
+                        <a asp-action="Edit" asp-route-id="@s.Id" class="btn btn-primary btn-sm">Редагувати</a>
+                        <a asp-action="Delete" asp-route-id="@s.Id" class="btn btn-danger btn-sm">Видалити</a>
+                    }
+                    else
+                    {
+                        <form asp-action="Order" asp-controller="Order" method="post" class="d-inline">
+                            <input type="hidden" name="serviceId" value="@s.Id" />
+                            <button type="submit" class="btn btn-success btn-sm">Замовити</button>
+                        </form>
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<div class="mb-3">
+    @for (int i = 1; i <= ViewBag.TotalPages; i++)
+    {
+        <a class="btn btn-outline-primary btn-sm me-1" href="?page=@i">@i</a>
+    }
+</div>
+<a asp-action="Create" class="btn btn-success">+ Додати послугу</a>

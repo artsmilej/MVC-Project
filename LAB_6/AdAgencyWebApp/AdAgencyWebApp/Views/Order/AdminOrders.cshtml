@@ -1,0 +1,48 @@
+﻿@model List<AdAgencyWebApp.Models.Order>
+@{
+    ViewData["Title"] = "Усі замовлення";
+}
+<h2 class="mb-4">Замовлення клієнтів</h2>
+<div class="mb-3">
+    <a asp-action="AdminOrders" class="btn btn-outline-secondary btn-sm">Всі</a>
+    <a asp-action="AdminOrders" asp-route-status="Submitted" class="btn btn-outline-info btn-sm">Прийняті</a>
+    <a asp-action="AdminOrders" asp-route-status="Confirmed" class="btn btn-outline-warning btn-sm">Підтверджені</a>
+    <a asp-action="AdminOrders" asp-route-status="Completed" class="btn btn-outline-success btn-sm">Виконані</a>
+</div>
+
+@await Html.PartialAsync("_Notification")
+
+<table class="table table-bordered table-hover">
+    <thead class="table-dark">
+        <tr>
+            <th>Користувач</th>
+            <th>Послуга</th>
+            <th>Дата</th>
+            <th>Статус</th>
+            <th>Дії</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var order in Model)
+        {
+            <tr>
+                <td>@order.User.Email</td>
+                <td>@order.Service.Name</td>
+                <td>@order.OrderDate.ToString("dd.MM.yyyy")</td>
+                <td>
+                    <form asp-action="UpdateStatus" method="post" class="d-inline">
+                        <input type="hidden" name="id" value="@order.Id" />
+                        <select name="status" class="form-select form-select-sm d-inline w-auto me-1">
+                            @foreach (var status in new[] { "Submitted", "Confirmed", "Completed" })
+                            {
+                                <option value="@status" selected="@(order.Status == status ? "selected" : null)">@status</option>
+                            }
+                        </select>
+                        <button type="submit" class="btn btn-sm btn-success">Зберегти</button>
+                    </form>
+                </td>
+                <td></td>
+            </tr>
+        }
+    </tbody>
+</table>

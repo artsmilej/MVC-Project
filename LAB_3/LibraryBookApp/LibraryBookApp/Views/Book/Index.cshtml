@@ -1,0 +1,31 @@
+﻿@model List<LibraryBookApp.Models.Book>
+@{
+    ViewData["Title"] = "Список книг";
+}
+
+<h2>Список книг</h2>
+
+<a href="/Book/Create">➕ Додати книгу</a> |
+<a href="/Book/Search">🔍 Пошук</a>
+
+<table border="1" cellpadding="5">
+    <tr>
+        <th>Назва</th>
+        <th>Автор</th>
+        <th>Рік</th>
+        <th>Видавництво</th>
+        <th></th>
+    </tr>
+    @foreach (var book in Model)
+    {
+        <tr>
+            <td>@book.Title</td>
+            <td>@book.Author</td>
+            <td>@book.Year</td>
+            <td>@book.Publisher</td>
+            <td>
+                <a href="/Book/Delete/@book.Id" onclick="return confirm('Видалити цю книгу?');">❌ Видалити</a>
+            </td>
+        </tr>
+    }
+</table>

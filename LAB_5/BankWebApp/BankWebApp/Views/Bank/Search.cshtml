@@ -1,0 +1,27 @@
+﻿@model List<BankWebApp.Models.Bank>
+
+<h2>Результати пошуку</h2>
+
+<a href="/Bank" class="btn btn-secondary">← Назад</a>
+
+<table class="table table-bordered mt-3">
+    <thead>
+        <tr>
+            <th>Код</th>
+            <th>Назва</th>
+            <th>МФО</th>
+            <th>Тел.</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var bank in Model)
+        {
+            <tr>
+                <td>@bank.Kod</td>
+                <td>@bank.Naim</td>
+                <td>@bank.MFO</td>
+                <td>@bank.Tel</td>
+            </tr>
+        }
+    </tbody>
+</table>

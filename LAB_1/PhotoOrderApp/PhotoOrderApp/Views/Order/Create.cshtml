@@ -1,0 +1,31 @@
+﻿@model PhotoOrder
+@{
+    ViewData["Title"] = "Розрахунок";
+}
+
+<h2>Розрахунок вартості фотографій</h2>
+<form asp-action="Create" method="post">
+    <label>Розмір:</label>
+    <select asp-for="Size">
+        <option>10x15</option>
+        <option>15x20</option>
+    </select><br />
+
+    <label>Тип паперу:</label>
+    <select asp-for="PaperType">
+        <option>Глянцевий</option>
+        <option>Матовий</option>
+    </select><br />
+
+    <label>Кількість:</label>
+    <input asp-for="Quantity" />
+    <span asp-validation-for="Quantity"></span><br />
+
+    <button type="submit">Розрахувати</button>
+</form>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

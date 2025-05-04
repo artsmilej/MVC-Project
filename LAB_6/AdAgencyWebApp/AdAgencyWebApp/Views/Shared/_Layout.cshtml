@@ -1,0 +1,56 @@
+﻿@using Microsoft.AspNetCore.Http
+@inject IHttpContextAccessor HttpContextAccessor
+
+@{
+    var userId = HttpContextAccessor.HttpContext.Session.GetInt32("UserId");
+    var userRole = HttpContextAccessor.HttpContext.Session.GetString("UserRole");
+}
+
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Рекламне агентство</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" />
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+</head>
+<body>
+    <header class="bg-dark text-white p-3 mb-4">
+        <div class="container d-flex justify-content-between align-items-center">
+            <div class="fs-4 fw-bold">Рекламне агентство</div>
+            <nav>
+                <a href="/" class="text-white me-3">Головна</a>
+                <a href="/Service" class="text-white me-3">Послуги</a>
+                @if (userId != null)
+                {
+                    <a href="/Order/MyOrders" class="text-white me-3">Мої замовлення</a>
+                    @if (userRole == "Admin")
+                    {
+                        <a href="/Order/AdminOrders" class="text-white me-3">[Admin] Замовлення</a>
+                    }
+                    <a href="/Account/Logout" class="text-white">Вихід</a>
+                }
+                else
+                {
+                    <a href="/Account/Register" class="text-white me-3">Реєстрація</a>
+                    <a href="/Account/Login" class="text-white">Вхід</a>
+                }
+            </nav>
+        </div>
+    </header>
+
+    <main class="container">
+        @await Html.PartialAsync("_Notification")
+        @RenderBody()
+    </main>
+
+    <footer class="bg-light text-center text-muted py-3 mt-4">
+        <div class="container">
+            &copy; @DateTime.Now.Year Рекламне агентство. Всі права захищені.
+        </div>
+    </footer>
+
+    @RenderSection("Scripts", required: false)
+</body>
+</html>

@@ -1,0 +1,199 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Studies\\MVC LAB\\LAB_1\\PhotoOrderApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E424272B-BEEE-4DFA-99CB-C66C1824157E}|PhotoOrderApp\\PhotoOrderApp.csproj|f:\\studies\\mvc lab\\lab_1\\photoorderapp\\photoorderapp\\views\\order\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E424272B-BEEE-4DFA-99CB-C66C1824157E}|PhotoOrderApp\\PhotoOrderApp.csproj|solutionrelative:photoorderapp\\views\\order\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E424272B-BEEE-4DFA-99CB-C66C1824157E}|PhotoOrderApp\\PhotoOrderApp.csproj|f:\\studies\\mvc lab\\lab_1\\photoorderapp\\photoorderapp\\views\\order\\result.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E424272B-BEEE-4DFA-99CB-C66C1824157E}|PhotoOrderApp\\PhotoOrderApp.csproj|solutionrelative:photoorderapp\\views\\order\\result.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E424272B-BEEE-4DFA-99CB-C66C1824157E}|PhotoOrderApp\\PhotoOrderApp.csproj|f:\\studies\\mvc lab\\lab_1\\photoorderapp\\photoorderapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E424272B-BEEE-4DFA-99CB-C66C1824157E}|PhotoOrderApp\\PhotoOrderApp.csproj|solutionrelative:photoorderapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E424272B-BEEE-4DFA-99CB-C66C1824157E}|PhotoOrderApp\\PhotoOrderApp.csproj|f:\\studies\\mvc lab\\lab_1\\photoorderapp\\photoorderapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E424272B-BEEE-4DFA-99CB-C66C1824157E}|PhotoOrderApp\\PhotoOrderApp.csproj|solutionrelative:photoorderapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E424272B-BEEE-4DFA-99CB-C66C1824157E}|PhotoOrderApp\\PhotoOrderApp.csproj|f:\\studies\\mvc lab\\lab_1\\photoorderapp\\photoorderapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E424272B-BEEE-4DFA-99CB-C66C1824157E}|PhotoOrderApp\\PhotoOrderApp.csproj|solutionrelative:photoorderapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E424272B-BEEE-4DFA-99CB-C66C1824157E}|PhotoOrderApp\\PhotoOrderApp.csproj|f:\\studies\\mvc lab\\lab_1\\photoorderapp\\photoorderapp\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E424272B-BEEE-4DFA-99CB-C66C1824157E}|PhotoOrderApp\\PhotoOrderApp.csproj|solutionrelative:photoorderapp\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E424272B-BEEE-4DFA-99CB-C66C1824157E}|PhotoOrderApp\\PhotoOrderApp.csproj|f:\\studies\\mvc lab\\lab_1\\photoorderapp\\photoorderapp\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E424272B-BEEE-4DFA-99CB-C66C1824157E}|PhotoOrderApp\\PhotoOrderApp.csproj|solutionrelative:photoorderapp\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E424272B-BEEE-4DFA-99CB-C66C1824157E}|PhotoOrderApp\\PhotoOrderApp.csproj|f:\\studies\\mvc lab\\lab_1\\photoorderapp\\photoorderapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E424272B-BEEE-4DFA-99CB-C66C1824157E}|PhotoOrderApp\\PhotoOrderApp.csproj|solutionrelative:photoorderapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E424272B-BEEE-4DFA-99CB-C66C1824157E}|PhotoOrderApp\\PhotoOrderApp.csproj|f:\\studies\\mvc lab\\lab_1\\photoorderapp\\photoorderapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E424272B-BEEE-4DFA-99CB-C66C1824157E}|PhotoOrderApp\\PhotoOrderApp.csproj|solutionrelative:photoorderapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E424272B-BEEE-4DFA-99CB-C66C1824157E}|PhotoOrderApp\\PhotoOrderApp.csproj|f:\\studies\\mvc lab\\lab_1\\photoorderapp\\photoorderapp\\models\\photoorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E424272B-BEEE-4DFA-99CB-C66C1824157E}|PhotoOrderApp\\PhotoOrderApp.csproj|solutionrelative:photoorderapp\\models\\photoorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E424272B-BEEE-4DFA-99CB-C66C1824157E}|PhotoOrderApp\\PhotoOrderApp.csproj|f:\\studies\\mvc lab\\lab_1\\photoorderapp\\photoorderapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E424272B-BEEE-4DFA-99CB-C66C1824157E}|PhotoOrderApp\\PhotoOrderApp.csproj|solutionrelative:photoorderapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "F:\\Studies\\MVC LAB\\LAB_1\\PhotoOrderApp\\PhotoOrderApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PhotoOrderApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "F:\\Studies\\MVC LAB\\LAB_1\\PhotoOrderApp\\PhotoOrderApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PhotoOrderApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwB4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-03T16:59:49.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "F:\\Studies\\MVC LAB\\LAB_1\\PhotoOrderApp\\PhotoOrderApp\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "PhotoOrderApp\\Views\\Account\\Register.cshtml",
+              "ToolTip": "F:\\Studies\\MVC LAB\\LAB_1\\PhotoOrderApp\\PhotoOrderApp\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "PhotoOrderApp\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-03T16:20:13.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "site.css",
+              "DocumentMoniker": "F:\\Studies\\MVC LAB\\LAB_1\\PhotoOrderApp\\PhotoOrderApp\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "PhotoOrderApp\\wwwroot\\css\\site.css",
+              "ToolTip": "F:\\Studies\\MVC LAB\\LAB_1\\PhotoOrderApp\\PhotoOrderApp\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "PhotoOrderApp\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAEMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-03T16:18:54.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Result.cshtml",
+              "DocumentMoniker": "F:\\Studies\\MVC LAB\\LAB_1\\PhotoOrderApp\\PhotoOrderApp\\Views\\Order\\Result.cshtml",
+              "RelativeDocumentMoniker": "PhotoOrderApp\\Views\\Order\\Result.cshtml",
+              "ToolTip": "F:\\Studies\\MVC LAB\\LAB_1\\PhotoOrderApp\\PhotoOrderApp\\Views\\Order\\Result.cshtml",
+              "RelativeToolTip": "PhotoOrderApp\\Views\\Order\\Result.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-03T16:18:31.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "F:\\Studies\\MVC LAB\\LAB_1\\PhotoOrderApp\\PhotoOrderApp\\Views\\Order\\Create.cshtml",
+              "RelativeDocumentMoniker": "PhotoOrderApp\\Views\\Order\\Create.cshtml",
+              "ToolTip": "F:\\Studies\\MVC LAB\\LAB_1\\PhotoOrderApp\\PhotoOrderApp\\Views\\Order\\Create.cshtml",
+              "RelativeToolTip": "PhotoOrderApp\\Views\\Order\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-03T16:18:06.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\Studies\\MVC LAB\\LAB_1\\PhotoOrderApp\\PhotoOrderApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "PhotoOrderApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "F:\\Studies\\MVC LAB\\LAB_1\\PhotoOrderApp\\PhotoOrderApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "PhotoOrderApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-03T16:16:38.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "F:\\Studies\\MVC LAB\\LAB_1\\PhotoOrderApp\\PhotoOrderApp\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "PhotoOrderApp\\Controllers\\OrderController.cs",
+              "ToolTip": "F:\\Studies\\MVC LAB\\LAB_1\\PhotoOrderApp\\PhotoOrderApp\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "PhotoOrderApp\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwCEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T16:16:14.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "F:\\Studies\\MVC LAB\\LAB_1\\PhotoOrderApp\\PhotoOrderApp\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "PhotoOrderApp\\Controllers\\AccountController.cs",
+              "ToolTip": "F:\\Studies\\MVC LAB\\LAB_1\\PhotoOrderApp\\PhotoOrderApp\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "PhotoOrderApp\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T16:15:31.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "F:\\Studies\\MVC LAB\\LAB_1\\PhotoOrderApp\\PhotoOrderApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "PhotoOrderApp\\Controllers\\HomeController.cs",
+              "ToolTip": "F:\\Studies\\MVC LAB\\LAB_1\\PhotoOrderApp\\PhotoOrderApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "PhotoOrderApp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T16:14:17.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PhotoOrder.cs",
+              "DocumentMoniker": "F:\\Studies\\MVC LAB\\LAB_1\\PhotoOrderApp\\PhotoOrderApp\\Models\\PhotoOrder.cs",
+              "RelativeDocumentMoniker": "PhotoOrderApp\\Models\\PhotoOrder.cs",
+              "ToolTip": "F:\\Studies\\MVC LAB\\LAB_1\\PhotoOrderApp\\PhotoOrderApp\\Models\\PhotoOrder.cs",
+              "RelativeToolTip": "PhotoOrderApp\\Models\\PhotoOrder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T16:13:58.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User.cs",
+              "DocumentMoniker": "F:\\Studies\\MVC LAB\\LAB_1\\PhotoOrderApp\\PhotoOrderApp\\Models\\User.cs",
+              "RelativeDocumentMoniker": "PhotoOrderApp\\Models\\User.cs",
+              "ToolTip": "F:\\Studies\\MVC LAB\\LAB_1\\PhotoOrderApp\\PhotoOrderApp\\Models\\User.cs",
+              "RelativeToolTip": "PhotoOrderApp\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T16:13:28.23Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

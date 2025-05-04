@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Studies\\MVC LAB\\LAB_2\\ProductLinqApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{83746ED1-CAEA-40C3-A11E-D61106C0CD25}|ProductLinqApp\\ProductLinqApp.csproj|f:\\studies\\mvc lab\\lab_2\\productlinqapp\\productlinqapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{83746ED1-CAEA-40C3-A11E-D61106C0CD25}|ProductLinqApp\\ProductLinqApp.csproj|solutionrelative:productlinqapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83746ED1-CAEA-40C3-A11E-D61106C0CD25}|ProductLinqApp\\ProductLinqApp.csproj|f:\\studies\\mvc lab\\lab_2\\productlinqapp\\productlinqapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{83746ED1-CAEA-40C3-A11E-D61106C0CD25}|ProductLinqApp\\ProductLinqApp.csproj|solutionrelative:productlinqapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83746ED1-CAEA-40C3-A11E-D61106C0CD25}|ProductLinqApp\\ProductLinqApp.csproj|f:\\studies\\mvc lab\\lab_2\\productlinqapp\\productlinqapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{83746ED1-CAEA-40C3-A11E-D61106C0CD25}|ProductLinqApp\\ProductLinqApp.csproj|solutionrelative:productlinqapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83746ED1-CAEA-40C3-A11E-D61106C0CD25}|ProductLinqApp\\ProductLinqApp.csproj|f:\\studies\\mvc lab\\lab_2\\productlinqapp\\productlinqapp\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{83746ED1-CAEA-40C3-A11E-D61106C0CD25}|ProductLinqApp\\ProductLinqApp.csproj|solutionrelative:productlinqapp\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83746ED1-CAEA-40C3-A11E-D61106C0CD25}|ProductLinqApp\\ProductLinqApp.csproj|f:\\studies\\mvc lab\\lab_2\\productlinqapp\\productlinqapp\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83746ED1-CAEA-40C3-A11E-D61106C0CD25}|ProductLinqApp\\ProductLinqApp.csproj|solutionrelative:productlinqapp\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83746ED1-CAEA-40C3-A11E-D61106C0CD25}|ProductLinqApp\\ProductLinqApp.csproj|f:\\studies\\mvc lab\\lab_2\\productlinqapp\\productlinqapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83746ED1-CAEA-40C3-A11E-D61106C0CD25}|ProductLinqApp\\ProductLinqApp.csproj|solutionrelative:productlinqapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\Studies\\MVC LAB\\LAB_2\\ProductLinqApp\\ProductLinqApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProductLinqApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "F:\\Studies\\MVC LAB\\LAB_2\\ProductLinqApp\\ProductLinqApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ProductLinqApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-03T16:56:39.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "site.css",
+              "DocumentMoniker": "F:\\Studies\\MVC LAB\\LAB_2\\ProductLinqApp\\ProductLinqApp\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "ProductLinqApp\\wwwroot\\css\\site.css",
+              "ToolTip": "F:\\Studies\\MVC LAB\\LAB_2\\ProductLinqApp\\ProductLinqApp\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "ProductLinqApp\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-03T16:56:04.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "F:\\Studies\\MVC LAB\\LAB_2\\ProductLinqApp\\ProductLinqApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ProductLinqApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "F:\\Studies\\MVC LAB\\LAB_2\\ProductLinqApp\\ProductLinqApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ProductLinqApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwB0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-03T16:53:30.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\Studies\\MVC LAB\\LAB_2\\ProductLinqApp\\ProductLinqApp\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProductLinqApp\\Views\\Product\\Index.cshtml",
+              "ToolTip": "F:\\Studies\\MVC LAB\\LAB_2\\ProductLinqApp\\ProductLinqApp\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "ProductLinqApp\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-03T16:53:01.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "F:\\Studies\\MVC LAB\\LAB_2\\ProductLinqApp\\ProductLinqApp\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ProductLinqApp\\Controllers\\ProductController.cs",
+              "ToolTip": "F:\\Studies\\MVC LAB\\LAB_2\\ProductLinqApp\\ProductLinqApp\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ProductLinqApp\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAcwCoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T16:52:16.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "F:\\Studies\\MVC LAB\\LAB_2\\ProductLinqApp\\ProductLinqApp\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ProductLinqApp\\Models\\Product.cs",
+              "ToolTip": "F:\\Studies\\MVC LAB\\LAB_2\\ProductLinqApp\\ProductLinqApp\\Models\\Product.cs",
+              "RelativeToolTip": "ProductLinqApp\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T16:51:42.15Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

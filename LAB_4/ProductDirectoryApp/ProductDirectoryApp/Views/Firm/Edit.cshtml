@@ -1,0 +1,12 @@
+﻿@model ProductDirectoryApp.Models.Firm
+<h2>Редагувати фірму</h2>
+<form asp-action="Edit">
+    <input type="hidden" asp-for="Id" />
+    <div class="form-group">
+        <label asp-for="Name"></label>
+        <input asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+    <input type="submit" value="Зберегти" class="btn btn-success" />
+    <a asp-action="Index" class="btn btn-secondary">Назад</a>
+</form>

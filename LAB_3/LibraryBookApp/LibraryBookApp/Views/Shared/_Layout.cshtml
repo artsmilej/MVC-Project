@@ -1,0 +1,32 @@
+﻿<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewData["Title"] - LibraryBookApp</title>
+    <link rel="stylesheet" href="~/css/site.css" />
+</head>
+<body>
+    <header>
+        <div class="navbar">
+            <div class="logo">📚 LibraryBookApp</div>
+            <nav>
+                <a href="/">Головна</a>
+                <a href="/Book">Книги</a>
+                <a href="/Book/Create">Додати</a>
+                <a href="/Book/Search">Пошук</a>
+            </nav>
+        </div>
+    </header>
+
+    <main class="container">
+        @RenderBody()
+    </main>
+
+    <footer>
+        <p>&copy; @DateTime.Now.Year - LibraryBookApp</p>
+    </footer>
+
+    @RenderSection("Scripts", required: false)
+</body>
+</html>

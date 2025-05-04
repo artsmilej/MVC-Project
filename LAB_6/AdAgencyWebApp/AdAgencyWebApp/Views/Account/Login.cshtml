@@ -1,0 +1,7 @@
+﻿<h2>Вхід</h2>
+<form asp-action="Login">
+    <input name="email" placeholder="Email" class="form-control" />
+    <input name="password" placeholder="Пароль" type="password" class="form-control" />
+    <button type="submit" class="btn btn-success">Увійти</button>
+    <span class="text-danger">@ViewBag.Error</span>
+</form>

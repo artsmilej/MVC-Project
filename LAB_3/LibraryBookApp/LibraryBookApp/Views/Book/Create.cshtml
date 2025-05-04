@@ -1,0 +1,32 @@
+﻿@model LibraryBookApp.Models.Book
+@{
+    ViewData["Title"] = "Додати книгу";
+}
+
+<h2>Додати книгу</h2>
+
+<form asp-action="Create" method="post">
+    <label>Назва:</label>
+    <input asp-for="Title" /><br />
+    <span asp-validation-for="Title"></span><br />
+
+    <label>Автор:</label>
+    <input asp-for="Author" /><br />
+    <span asp-validation-for="Author"></span><br />
+
+    <label>Рік:</label>
+    <input asp-for="Year" type="number" /><br />
+    <span asp-validation-for="Year"></span><br />
+
+    <label>Видавництво:</label>
+    <input asp-for="Publisher" /><br />
+    <span asp-validation-for="Publisher"></span><br />
+
+    <button type="submit">Зберегти</button>
+</form>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

@@ -1,0 +1,31 @@
+﻿<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewData["Title"] - PhotoApp</title>
+    <link rel="stylesheet" href="~/css/site.css" />
+</head>
+<body>
+    <header>
+        <div class="navbar">
+            <div class="logo">📸 PhotoApp</div>
+            <nav>
+                <a href="/">Головна</a>
+                <a href="/Account/Register">Реєстрація</a>
+                <a href="/Order/Create">Розрахунок</a>
+            </nav>
+        </div>
+    </header>
+
+    <main class="container">
+        @RenderBody()
+    </main>
+
+    <footer>
+        <p>&copy; @DateTime.Now.Year - PhotoApp</p>
+    </footer>
+
+    @RenderSection("Scripts", required: false)
+</body>
+</html>
