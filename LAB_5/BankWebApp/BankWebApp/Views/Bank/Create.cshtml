@@ -1,10 +1,46 @@
 ﻿@model BankWebApp.Models.Bank
-<h2>Додати банк</h2>
-<form method="post">
-    <input asp-for="Kod" placeholder="Код" /><br />
-    <input asp-for="Naim" placeholder="Назва" /><br />
-    <input asp-for="Adres" placeholder="Адреса" /><br />
-    <input asp-for="Tel" placeholder="Телефон" /><br />
-    <input asp-for="MFO" placeholder="МФО" /><br />
-    <button type="submit">Зберегти</button>
-</form>
+
+@{
+    ViewData["Title"] = "Додати банк";
+}
+
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <div class="card shadow">
+                <div class="card-body">
+                    <h3 class="card-title text-center mb-4">Додати банк</h3>
+
+                    <form asp-action="Create">
+                        <div class="form-group mb-3">
+                            <label asp-for="Kod">Код</label>
+                            <input asp-for="Kod" class="form-control" />
+                        </div>
+
+                        <div class="form-group mb-3">
+                            <label asp-for="Naim">Назва</label>
+                            <input asp-for="Naim" class="form-control" />
+                        </div>
+
+                        <div class="form-group mb-3">
+                            <label asp-for="Adres">Адреса</label>
+                            <input asp-for="Adres" class="form-control" />
+                        </div>
+
+                        <div class="form-group mb-3">
+                            <label asp-for="Tel">Телефон</label>
+                            <input asp-for="Tel" class="form-control" />
+                        </div>
+
+                        <div class="form-group mb-4">
+                            <label asp-for="MFO">МФО</label>
+                            <input asp-for="MFO" class="form-control" />
+                        </div>
+
+                        <button type="submit" class="btn btn-primary w-100">Зберегти</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

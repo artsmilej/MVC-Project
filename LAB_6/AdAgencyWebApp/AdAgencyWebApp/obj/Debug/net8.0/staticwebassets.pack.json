@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "F:\\Studies\\MVC LAB\\LAB_6\\AdAgencyWebApp\\AdAgencyWebApp\\wwwroot\\images\\IMGHOME.jpg",
+      "PackagePath": "staticwebassets\\images\\IMGHOME.jpg"
+    },
+    {
       "Id": "F:\\Studies\\MVC LAB\\LAB_6\\AdAgencyWebApp\\AdAgencyWebApp\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

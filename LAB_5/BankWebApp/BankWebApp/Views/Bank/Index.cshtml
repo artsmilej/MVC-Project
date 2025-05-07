@@ -18,6 +18,7 @@
             <th>Назва</th>
             <th>МФО</th>
             <th>Тел.</th>
+            <th>Адреса</th>
             <th>Дії</th>
         </tr>
     </thead>
@@ -29,8 +30,11 @@
                 <td>@bank.Naim</td>
                 <td>@bank.MFO</td>
                 <td>@bank.Tel</td>
+                <td>@bank.Adres</td>
                 <td>
-                    <a href="/Bank/Delete/@bank.Kod" title="Видалити">🗑️</a>
+                    <form asp-action="Delete" asp-route-kod="@bank.Kod" method="post" style="display:inline;">
+                        <button type="submit" title="Видалити" class="btn btn-link text-danger">🗑️</button>
+                    </form>
                 </td>
             </tr>
         }

@@ -41,7 +41,13 @@
                         <button type="submit" class="btn btn-sm btn-success">Зберегти</button>
                     </form>
                 </td>
-                <td></td>
+                <td>
+                    <form asp-action="Delete" asp-route-id="@order.Id" method="post" class="d-inline" onsubmit="return confirm('Ви впевнені, що хочете видалити це замовлення?');">
+                        <button type="submit" class="btn btn-sm btn-danger" title="Видалити">
+                            🗑️
+                        </button>
+                    </form>
+                </td>
             </tr>
         }
     </tbody>

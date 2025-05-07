@@ -2,8 +2,33 @@
     ViewData["Title"] = "Головна";
 }
 
-<div class="text-center">
-    <h2>Ласкаво просимо до рекламного агентства!</h2>
-    <p>Оберіть послуги, які вас цікавлять, і оформіть замовлення онлайн.</p>
-    <a class="btn btn-primary" href="/Service">Переглянути послуги</a>
+<style>
+    .hero-section {
+        background: url('/images/IMGHOME.jpg') no-repeat center center;
+        background-size: cover;
+        height: 100vh;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        color: white;
+        text-align: center;
+    }
+
+    .hero-overlay {
+        background-color: rgba(0, 0, 0, 0.5);
+        padding: 60px;
+        border-radius: 12px;
+    }
+
+    .hero-button {
+        margin-top: 20px;
+    }
+</style>
+
+<div class="hero-section">
+    <div class="hero-overlay">
+        <h1 class="display-5">Професійне рекламне агентство</h1>
+        <p class="lead">Замовляйте сучасні послуги з дизайну, просування та брендингу</p>
+        <a href="/Service" class="btn btn-primary btn-lg hero-button">Обрати послугу</a>
+    </div>
 </div>

@@ -46,4 +46,8 @@
         <a class="btn btn-outline-primary btn-sm me-1" href="?page=@i">@i</a>
     }
 </div>
-<a asp-action="Create" class="btn btn-success">+ Додати послугу</a>
+
+@if (Context.Session.GetString("UserRole") == "Admin")
+{
+    <a asp-action="Create" class="btn btn-success">+ Додати послугу</a>
+}

@@ -24,7 +24,10 @@
                 <a href="/Service" class="text-white me-3">Послуги</a>
                 @if (userId != null)
                 {
-                    <a href="/Order/MyOrders" class="text-white me-3">Мої замовлення</a>
+                    @if (userRole != "Admin")
+                    {
+                        <a href="/Order/MyOrders" class="text-white me-3">Мої замовлення</a>
+                    }
                     @if (userRole == "Admin")
                     {
                         <a href="/Order/AdminOrders" class="text-white me-3">[Admin] Замовлення</a>

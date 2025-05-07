@@ -3,27 +3,43 @@
   "WorkspaceRootPath": "F:\\Studies\\MVC LAB\\LAB_5\\BankWebApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BAC9EB79-3D6A-44FA-B363-B4EAD77823D5}|BankWebApp\\BankWebApp.csproj|f:\\studies\\mvc lab\\lab_5\\bankwebapp\\bankwebapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{BAC9EB79-3D6A-44FA-B363-B4EAD77823D5}|BankWebApp\\BankWebApp.csproj|solutionrelative:bankwebapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BAC9EB79-3D6A-44FA-B363-B4EAD77823D5}|BankWebApp\\BankWebApp.csproj|f:\\studies\\mvc lab\\lab_5\\bankwebapp\\bankwebapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BAC9EB79-3D6A-44FA-B363-B4EAD77823D5}|BankWebApp\\BankWebApp.csproj|solutionrelative:bankwebapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BAC9EB79-3D6A-44FA-B363-B4EAD77823D5}|BankWebApp\\BankWebApp.csproj|f:\\studies\\mvc lab\\lab_5\\bankwebapp\\bankwebapp\\models\\bankrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BAC9EB79-3D6A-44FA-B363-B4EAD77823D5}|BankWebApp\\BankWebApp.csproj|solutionrelative:bankwebapp\\models\\bankrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BAC9EB79-3D6A-44FA-B363-B4EAD77823D5}|BankWebApp\\BankWebApp.csproj|f:\\studies\\mvc lab\\lab_5\\bankwebapp\\bankwebapp\\views\\bank\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BAC9EB79-3D6A-44FA-B363-B4EAD77823D5}|BankWebApp\\BankWebApp.csproj|solutionrelative:bankwebapp\\views\\bank\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{BAC9EB79-3D6A-44FA-B363-B4EAD77823D5}|BankWebApp\\BankWebApp.csproj|f:\\studies\\mvc lab\\lab_5\\bankwebapp\\bankwebapp\\views\\bank\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BAC9EB79-3D6A-44FA-B363-B4EAD77823D5}|BankWebApp\\BankWebApp.csproj|solutionrelative:bankwebapp\\views\\bank\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BAC9EB79-3D6A-44FA-B363-B4EAD77823D5}|BankWebApp\\BankWebApp.csproj|f:\\studies\\mvc lab\\lab_5\\bankwebapp\\bankwebapp\\views\\bank\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{BAC9EB79-3D6A-44FA-B363-B4EAD77823D5}|BankWebApp\\BankWebApp.csproj|solutionrelative:bankwebapp\\views\\bank\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{BAC9EB79-3D6A-44FA-B363-B4EAD77823D5}|BankWebApp\\BankWebApp.csproj|f:\\studies\\mvc lab\\lab_5\\bankwebapp\\bankwebapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BAC9EB79-3D6A-44FA-B363-B4EAD77823D5}|BankWebApp\\BankWebApp.csproj|solutionrelative:bankwebapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC9EB79-3D6A-44FA-B363-B4EAD77823D5}|BankWebApp\\BankWebApp.csproj|f:\\studies\\mvc lab\\lab_5\\bankwebapp\\bankwebapp\\models\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAC9EB79-3D6A-44FA-B363-B4EAD77823D5}|BankWebApp\\BankWebApp.csproj|solutionrelative:bankwebapp\\models\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC9EB79-3D6A-44FA-B363-B4EAD77823D5}|BankWebApp\\BankWebApp.csproj|f:\\studies\\mvc lab\\lab_5\\bankwebapp\\bankwebapp\\controllers\\bankcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAC9EB79-3D6A-44FA-B363-B4EAD77823D5}|BankWebApp\\BankWebApp.csproj|solutionrelative:bankwebapp\\controllers\\bankcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC9EB79-3D6A-44FA-B363-B4EAD77823D5}|BankWebApp\\BankWebApp.csproj|f:\\studies\\mvc lab\\lab_5\\bankwebapp\\bankwebapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAC9EB79-3D6A-44FA-B363-B4EAD77823D5}|BankWebApp\\BankWebApp.csproj|solutionrelative:bankwebapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC9EB79-3D6A-44FA-B363-B4EAD77823D5}|BankWebApp\\BankWebApp.csproj|f:\\studies\\mvc lab\\lab_5\\bankwebapp\\bankwebapp\\models\\bankrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAC9EB79-3D6A-44FA-B363-B4EAD77823D5}|BankWebApp\\BankWebApp.csproj|solutionrelative:bankwebapp\\models\\bankrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\oneta\\AppData\\Local\\Temp\\oes4meqn..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC9EB79-3D6A-44FA-B363-B4EAD77823D5}|BankWebApp\\BankWebApp.csproj|f:\\studies\\mvc lab\\lab_5\\bankwebapp\\bankwebapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{BAC9EB79-3D6A-44FA-B363-B4EAD77823D5}|BankWebApp\\BankWebApp.csproj|solutionrelative:bankwebapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC9EB79-3D6A-44FA-B363-B4EAD77823D5}|BankWebApp\\BankWebApp.csproj|f:\\studies\\mvc lab\\lab_5\\bankwebapp\\bankwebapp\\views\\bank\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BAC9EB79-3D6A-44FA-B363-B4EAD77823D5}|BankWebApp\\BankWebApp.csproj|solutionrelative:bankwebapp\\views\\bank\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BAC9EB79-3D6A-44FA-B363-B4EAD77823D5}|BankWebApp\\BankWebApp.csproj|f:\\studies\\mvc lab\\lab_5\\bankwebapp\\bankwebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -32,18 +48,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{BAC9EB79-3D6A-44FA-B363-B4EAD77823D5}|BankWebApp\\BankWebApp.csproj|f:\\studies\\mvc lab\\lab_5\\bankwebapp\\bankwebapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{BAC9EB79-3D6A-44FA-B363-B4EAD77823D5}|BankWebApp\\BankWebApp.csproj|solutionrelative:bankwebapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BAC9EB79-3D6A-44FA-B363-B4EAD77823D5}|BankWebApp\\BankWebApp.csproj|f:\\studies\\mvc lab\\lab_5\\bankwebapp\\bankwebapp\\controllers\\bankcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BAC9EB79-3D6A-44FA-B363-B4EAD77823D5}|BankWebApp\\BankWebApp.csproj|solutionrelative:bankwebapp\\controllers\\bankcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BAC9EB79-3D6A-44FA-B363-B4EAD77823D5}|BankWebApp\\BankWebApp.csproj|f:\\studies\\mvc lab\\lab_5\\bankwebapp\\bankwebapp\\models\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BAC9EB79-3D6A-44FA-B363-B4EAD77823D5}|BankWebApp\\BankWebApp.csproj|solutionrelative:bankwebapp\\models\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BAC9EB79-3D6A-44FA-B363-B4EAD77823D5}|BankWebApp\\BankWebApp.csproj|f:\\studies\\mvc lab\\lab_5\\bankwebapp\\bankwebapp\\views\\bank\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BAC9EB79-3D6A-44FA-B363-B4EAD77823D5}|BankWebApp\\BankWebApp.csproj|solutionrelative:bankwebapp\\views\\bank\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -53,36 +57,48 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "F:\\Studies\\MVC LAB\\LAB_5\\BankWebApp\\BankWebApp\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "BankWebApp\\Models\\ErrorViewModel.cs",
+              "ToolTip": "F:\\Studies\\MVC LAB\\LAB_5\\BankWebApp\\BankWebApp\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "BankWebApp\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T09:49:59.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "F:\\Studies\\MVC LAB\\LAB_5\\BankWebApp\\BankWebApp\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "BankWebApp\\Views\\Home\\Index.cshtml",
               "ToolTip": "F:\\Studies\\MVC LAB\\LAB_5\\BankWebApp\\BankWebApp\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "BankWebApp\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-04T09:04:49.115Z"
+              "WhenOpened": "2025-05-04T09:04:49.115Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
               "Title": "site.css",
               "DocumentMoniker": "F:\\Studies\\MVC LAB\\LAB_5\\BankWebApp\\BankWebApp\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "BankWebApp\\wwwroot\\css\\site.css",
               "ToolTip": "F:\\Studies\\MVC LAB\\LAB_5\\BankWebApp\\BankWebApp\\wwwroot\\css\\site.css",
               "RelativeToolTip": "BankWebApp\\wwwroot\\css\\site.css",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAowG0AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowG0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-05-04T09:02:27.83Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-04T09:02:27.83Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "oes4meqn..sql",
               "DocumentMoniker": "C:\\Users\\oneta\\AppData\\Local\\Temp\\oes4meqn..sql",
               "ToolTip": "C:\\Users\\oneta\\AppData\\Local\\Temp\\oes4meqn..sql",
@@ -91,7 +107,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "F:\\Studies\\MVC LAB\\LAB_5\\BankWebApp\\BankWebApp\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "BankWebApp\\Views\\Shared\\_Layout.cshtml",
@@ -103,7 +119,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "appsettings.json",
               "DocumentMoniker": "F:\\Studies\\MVC LAB\\LAB_5\\BankWebApp\\BankWebApp\\appsettings.json",
               "RelativeDocumentMoniker": "BankWebApp\\appsettings.json",
@@ -115,7 +131,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "Search.cshtml",
               "DocumentMoniker": "F:\\Studies\\MVC LAB\\LAB_5\\BankWebApp\\BankWebApp\\Views\\Bank\\Search.cshtml",
               "RelativeDocumentMoniker": "BankWebApp\\Views\\Bank\\Search.cshtml",
@@ -127,31 +143,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "F:\\Studies\\MVC LAB\\LAB_5\\BankWebApp\\BankWebApp\\Views\\Bank\\Index.cshtml",
               "RelativeDocumentMoniker": "BankWebApp\\Views\\Bank\\Index.cshtml",
               "ToolTip": "F:\\Studies\\MVC LAB\\LAB_5\\BankWebApp\\BankWebApp\\Views\\Bank\\Index.cshtml",
               "RelativeToolTip": "BankWebApp\\Views\\Bank\\Index.cshtml",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAACUAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACAAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-04T08:41:30.613Z"
+              "WhenOpened": "2025-05-04T08:41:30.613Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
               "Title": "BankController.cs",
               "DocumentMoniker": "F:\\Studies\\MVC LAB\\LAB_5\\BankWebApp\\BankWebApp\\Controllers\\BankController.cs",
               "RelativeDocumentMoniker": "BankWebApp\\Controllers\\BankController.cs",
               "ToolTip": "F:\\Studies\\MVC LAB\\LAB_5\\BankWebApp\\BankWebApp\\Controllers\\BankController.cs",
               "RelativeToolTip": "BankWebApp\\Controllers\\BankController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowCgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-04T08:40:38.073Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "BankRepository.cs",
               "DocumentMoniker": "F:\\Studies\\MVC LAB\\LAB_5\\BankWebApp\\BankWebApp\\Models\\BankRepository.cs",
               "RelativeDocumentMoniker": "BankWebApp\\Models\\BankRepository.cs",
@@ -163,27 +180,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 0,
               "Title": "Create.cshtml",
               "DocumentMoniker": "F:\\Studies\\MVC LAB\\LAB_5\\BankWebApp\\BankWebApp\\Views\\Bank\\Create.cshtml",
               "RelativeDocumentMoniker": "BankWebApp\\Views\\Bank\\Create.cshtml",
-              "ToolTip": "F:\\Studies\\MVC LAB\\LAB_5\\BankWebApp\\BankWebApp\\Views\\Bank\\Create.cshtml",
-              "RelativeToolTip": "BankWebApp\\Views\\Bank\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAHAAAAAAAAAA==",
+              "ToolTip": "F:\\Studies\\MVC LAB\\LAB_5\\BankWebApp\\BankWebApp\\Views\\Bank\\Create.cshtml*",
+              "RelativeToolTip": "BankWebApp\\Views\\Bank\\Create.cshtml*",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAYwC0AAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-04T08:42:00.7Z"
+              "WhenOpened": "2025-05-04T08:42:00.7Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 3,
               "Title": "Bank.cs",
               "DocumentMoniker": "F:\\Studies\\MVC LAB\\LAB_5\\BankWebApp\\BankWebApp\\Models\\Bank.cs",
               "RelativeDocumentMoniker": "BankWebApp\\Models\\Bank.cs",
               "ToolTip": "F:\\Studies\\MVC LAB\\LAB_5\\BankWebApp\\BankWebApp\\Models\\Bank.cs",
               "RelativeToolTip": "BankWebApp\\Models\\Bank.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-04T08:38:53.399Z"
+              "WhenOpened": "2025-05-04T08:38:53.399Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -33,6 +33,7 @@ namespace BankWebApp.Controllers
             return View(result);
         }
 
+        [HttpPost]
         public IActionResult Delete(int kod)
         {
             _repo.Delete(kod);

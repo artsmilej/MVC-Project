@@ -127,6 +127,23 @@ namespace AdAgencyWebApp.Controllers
             return RedirectToAction("MyOrders");
         }
 
-       
+        [HttpPost]
+        public IActionResult Delete(int id)
+        {
+            var role = HttpContext.Session.GetString("UserRole");
+            if (role != "Admin") return Unauthorized();
+
+            var order = _context.Orders.Find(id);
+            if (order != null)
+            {
+                _context.Orders.Remove(order);
+                _context.SaveChanges();
+                TempData["Success"] = "Замовлення успішно видалено.";
+            }
+
+            return RedirectToAction("AdminOrders");
+        }
+
+
     }
 }
